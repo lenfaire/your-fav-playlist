@@ -179,6 +179,8 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | lofi/sleep | [SoundCloud](https://soundcloud.com/yourwaifusad/sets/lofi) | SoundCloud | [repaintable](https://soundcloud.com/yourwaifusad) | - |
 | sad lofi for sleepless nights | [Youtube](https://www.youtube.com/watch?v=4w7_weFCKSY&list=PLOzDu-MXXLljUH6SXbGzt1eJ7wqhW-yZY) | Youtube | the bootleg boy(https://www.youtube.com/thebootlegboy/) | malam tanpa tidur dan memikirkanmu |
 | Chill Lo-Fi HipHop Beats | [Spotify](https://open.spotify.com/playlist/2q3hsGutZMdTkgkF69QoBP?si=D5hpEKmQQdGNbOypQYLsLg) | Spotify | [Muhamad Ristiyanto](https://github.com/Gimenz) | For Sickness and Health dan dapat membuat kepala mengangguk - angguk |
+| Lofi by Gustixa | [Spotify](https://www.youtube.com/playlist?list=PLrs0j7bfbm_bMV9lQmNZMNVUlZoGuL70k) | Youtube | [Gustixa](https://www.youtube.com/c/Gustixa)  | - |
+
 
 ## Instrumental
 
@@ -357,6 +359,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/HafitzSetya"><img src="https://avatars1.githubusercontent.com/u/71178188?v=4" width="120px;" alt=""/><br /><sub><b>Hafitz21</b></sub></a><br /><a href="#content-HafitzSetya" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/lenfaire"><img src="https://avatars0.githubusercontent.com/u/73016312?s=460&u=02a52182db78f246a9e33174cce983fb13f762fe&v=4" width="120px;" alt=""/><br /><sub><b>M Eky</b></sub></a><br /><a href="#content-xvbnm48" title="Content">🖋</a></td>
   </tr>
 </table>
 
